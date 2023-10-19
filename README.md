@@ -7,3 +7,4 @@
 - The PID system lacks a formal Integral term with its constant, instead the external torque exerted by the ball is kept as a 'pseudo-integral' term
 - For a more detailed explanation refer to [DOCUMENTATION](https://docs.google.com/document/d/1DCXmGCbi5Zf7fhOyEo0CEilvz2VGqWxbR4mezLLdfbU/edit?usp=drive_link)
 - also a commit from ubuntu part 2
+- oart 3 lmao
